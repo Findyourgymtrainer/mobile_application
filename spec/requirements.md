@@ -15,6 +15,7 @@ A cross-platform mobile app (Android and iOS) that helps users find and book gym
 - Package: `com.findyourgymtrainer.gym_trainer`
 - Backend: to be decided (e.g. Firebase or a REST API)
 - Source control: GitHub – `Findyourgymtrainer/mobile_application`
+- Design: [Figma file](https://www.figma.com/file/EYujF7bOCNu9bD7tZEiUn9?node-id=0:1&p=f&t=sLmJXVNjluikI5py-0&locale=en&type=design) – screens mirror the implemented app
 
 ## 4. Functional Requirements
 
